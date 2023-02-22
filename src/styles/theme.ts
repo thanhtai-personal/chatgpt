@@ -20,8 +20,8 @@ declare module "@material-ui/core/Button/Button" {
 }
 
 export const Colors = {
-  bg: "white",
-  header: "white",
+  bg: "#1C1D25",
+  header: "#1C1D25",
   primary: "#3778FB",
   textPrimary: "black",
   secondary: "#5EDB7C",

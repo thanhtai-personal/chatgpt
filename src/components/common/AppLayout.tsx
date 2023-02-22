@@ -21,6 +21,7 @@ const AppLayout = (props: any) => {
       style={{
         minHeight: "100vh",
       }}
+      column
     >
       <AppMenu />
       {props.children}
